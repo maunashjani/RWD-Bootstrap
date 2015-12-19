@@ -27,4 +27,4 @@ Referral for Bootstrap Free and Premium Themes and Templates -
 
 2. http://startbootstrap.com/
 
-3. For Material Design search - material design bootstrap template
+3. For Material Design search - Material Design Bootstrap Template
