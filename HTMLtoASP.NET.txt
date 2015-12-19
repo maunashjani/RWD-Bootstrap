@@ -1,0 +1,26 @@
+//HTML Template to ASP.NET Website Project
+
+Steps:
+
+1. Download the required HTML template.
+
+2. Create a new empty ASP.NET project.
+
+3. Copy all the directories and files of the template folder to ASP.NET project folder. 
+  (via Solution Explorer or Directly whatever applicable)
+
+4. Create a blank .aspx page e.g. Default.aspx
+
+5. Copy the content of the <body> tag from the HTML page.
+  e.g. Copy entire <body> from index.html and paste it in the Default.aspx <body>. (remove whatever is there in ASPX <body>)
+  
+6. Every ASP.NET page needs one <form> with runat="server" so add a new <form> below <body> and give id and runat attribute to it.
+  End </form> before </body> or wherever applicable.
+  
+7. Copy the contents in the <head> of HTML page to the <head> of ASPX page. 
+  (Note: Check that the ASPX <head> contains runat="server" attribute)
+  
+8. Run your ASPX page and check.
+
+9. You can repalce HTML tags or controls with ASP.NET controls wherever needed on the ASPX page.
+  (Note: While replacing just use the class attribute as in the HTML tags with ASP.NET controls)
