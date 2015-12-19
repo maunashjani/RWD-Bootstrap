@@ -3,6 +3,8 @@ Responsive Web Design &amp; Bootstrap
 
 RWD - Responsive Web Design
 
+http://www.w3schools.com/html/html_responsive.asp
+
 Bootstrap Framework
 
 Themes and Templates
