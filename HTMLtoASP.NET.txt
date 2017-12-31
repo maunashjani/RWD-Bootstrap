@@ -23,4 +23,4 @@ Steps:
 8. Run your ASPX page and check.
 
 9. You can repalce HTML tags or controls with ASP.NET controls wherever needed on the ASPX page.
-  (Note: While replacing just use the class attribute as in the HTML tags with ASP.NET controls)
+  (Note: While replacing just use the CssClass attribute as in the HTML tags with ASP.NET controls)
