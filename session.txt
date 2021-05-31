@@ -1,0 +1,23 @@
+Web standards - HTML 5
+
+new devices 
+
+browsers 
+
+chromium - chrome, edge
+
+Modern web development
+
+CSS 3
+
+1. Flexbox CSS
+
+2. Grid CSS
+
+emmet - https://docs.emmet.io/cheat-sheet/
+
+bootstrap:
+
+css class
+
+table example - rollno name class marks
